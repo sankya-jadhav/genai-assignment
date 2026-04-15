@@ -1,0 +1,19 @@
+TAYLOR DOE
+Email: t.doe@email.com
+
+SUMMARY
+Friendly and organized Customer Service Representative with 5 years of experience resolving client issues and managing support tickets.
+
+EXPERIENCE
+Customer Support Specialist | Global Solutions | Mar 2019 - Present
+- Handled over 50 customer calls per day.
+- Used Salesforce to track customer interactions.
+- Managed scheduling using MS Office.
+- Awarded Employee of the Month in 2021 for excellent communication skills.
+
+SKILLS
+Communication, Time Management, Conflict Resolution.
+Tools: Salesforce, MS Office (Word, Excel, PowerPoint)
+
+EDUCATION
+High School Diploma | Central High | 2018

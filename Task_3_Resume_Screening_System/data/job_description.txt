@@ -1,0 +1,21 @@
+**Job Title:** Data Scientist
+**Experience Required:** 3+ years
+
+**Responsibilities:**
+- Build and maintain machine learning pipelines and models.
+- Perform advanced data analysis to extract actionable insights.
+- Collaborate with engineering and product teams to integrate models into production.
+- Mentor junior data analysts and maintain code quality standards.
+
+**Technical Skills Required:**
+- Python, SQL
+- Machine Learning (Classification, Regression, Clustering)
+- Deep Learning basics
+- Data Visualization (Matplotlib, Seaborn)
+
+**Tools Required:**
+- Scikit-Learn, TensorFlow or PyTorch
+- Pandas, NumPy
+- Git/GitHub
+- Docker
+- Jupyter Notebooks

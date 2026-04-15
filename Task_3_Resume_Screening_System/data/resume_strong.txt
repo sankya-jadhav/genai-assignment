@@ -1,0 +1,20 @@
+ALEX JOHNSON
+Email: alex.j@email.com | Phone: 555-0101
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with over 4 years of experience building scalable machine learning solutions, working closely with cross-functional engineering teams to push models to production.
+
+EXPERIENCE
+Data Scientist | Tech Innovators Ltd. | Jan 2020 - Present
+- Designed classification and regression models to optimize marketing spend.
+- Implemented deep learning pipelines using PyTorch for NLP classification tasks.
+- Created interactive dashboards using Python, Matplotlib, and Seaborn.
+- Containerized models using Docker to streamline production deployment.
+- Mentored two junior analysts in statistical modeling and git version control.
+
+TECHNICAL SKILLS
+Languages & Paradigms: Python, SQL, Machine Learning, Deep Learning, Data Visualization, Clustering.
+Tools & Frameworks: Scikit-Learn, PyTorch, Pandas, NumPy, GitHub, Docker, Jupyter Notebooks.
+
+EDUCATION
+M.S. in Computer Science | University of State | 2019
